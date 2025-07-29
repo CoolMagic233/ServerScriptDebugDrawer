@@ -1,0 +1,4 @@
+name: ServerScriptDebugDrawer
+version: 1.0
+main: me.coolmagic233.serverscriptdebugdrawer.ServerScriptDebugDrawer
+api: 1.0.0
